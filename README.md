@@ -18,3 +18,13 @@ D. An alert box displaying the following: ```11```
 
 
 Answer : D ( have a good night !) 
+
+
+===========================================================
+KEY - * CORRECT * : Rock On!
+
+Note this line here ```alert(myString.length);``` all I am printing is the length of the String so you *know* it's going to be a number.
+
+The String "Hello World" is 11 characters long, thus the correct answer as to what will be displayed is '11'.
+
+
